@@ -1,0 +1,34 @@
+name: profil_Smile
+description: "profil Smile "
+publish_to: 'none'
+version: 0.1.0+1
+
+environment:
+  sdk: ^3.11.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+  http: ^1.2.0
+  provider: ^6.1.1
+  shared_preferences: ^2.2.2
+  cupertino_icons: ^1.0.6
+  
+  # الإشعارات
+  firebase_core: ^4.15.0
+  firebase_messaging: ^16.7.0
+  # flutter_local_notifications: ^17.0.0
+  dio: ^5.11.1
+  easy_localization: ^3.0.8
+  image_picker: ^1.2.3
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/i18n/

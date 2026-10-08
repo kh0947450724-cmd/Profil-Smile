@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "130319800855",
+    "project_id": "smile-lab-40ca9",
+    "storage_bucket": "smile-lab-40ca9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:130319800855:android:c90f47bc4432131a23da52",
+        "android_client_info": {
+          "package_name": "com.khaledpro.lab_smile"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmWk7m-xw2vQPaf3KyKVTPjz7CrWNPukw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
